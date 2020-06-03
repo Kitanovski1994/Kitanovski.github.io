@@ -1,0 +1,135 @@
+body {
+	background-color: #e7e7e7;
+}
+hr {
+	width: 96%;
+	margin: 2% auto;
+}
+/* Header */
+.header {
+	background-color: #ffffff;
+	padding: 2% 0 0 2%;
+}
+.img-logo {
+	width: 100%;
+}
+.nav-span {
+	font-weight: bolder;
+	font-size: 15px;
+	text-transform: uppercase;
+	text-align: center;
+	cursor: pointer;
+	padding: 2%;
+}
+
+.nav-span:hover {
+	background-color: #d3d3d3;
+	cursor: pointer;
+	color: orange;
+}
+
+.nav-icons {
+	text-align: right;
+}
+.fas {
+	padding: 0 3%;
+}
+.fa-shopping-bag {
+	margin: 0 15% 0 0;
+}
+
+/* Bikes Heading */
+.bikes-heading {
+	background-color: #ffffff;
+}
+
+.bike {
+	font-size: 48px;
+}
+
+/* Main Container */
+.active {
+	color: orange;
+}
+.main-container {
+	padding: 1% 0 0 1%;
+	background-color: #ffffff;
+}
+.main-heading {
+	font-size: 18px;
+	font-weight: bolder;
+	margin: 7% 0;
+}
+
+.main-span-number {
+	float: right;
+	background-color: lightgray;
+	padding: 0.5% 3%;
+	border-radius: 40%;
+}
+
+.main-parg:hover {
+	color: orange;
+	cursor: pointer;
+}
+
+/* Cards */
+.thumbnail {
+	padding: 0 !important;
+}
+.thumbnail:hover {
+	transform: scale(1.1);
+	border-color: orange;
+	cursor: pointer;
+}
+
+.img-card {
+	height: 150px !important;
+}
+
+.card-heading {
+	font-size: 14px;
+	font-weight: bolder;
+}
+
+.caption {
+	background-color: orange;
+	color: #000;
+}
+
+/* Footer */
+.footer-icons {
+	background-color: orange;
+	margin: 2%;
+	color: #ffffff;
+	padding: 2% 3%;
+}
+
+.footer-icons:hover {
+	background-color: #d3d3d3;
+	cursor: pointer;
+	color: orange;
+}
+
+.footer-heading {
+	margin: 5% 0 4% 0;
+	font-size: 18px;
+	color: #000;
+	font-weight: bolder;
+}
+
+.footer-div {
+	border-left: 1px lightgray solid;
+	margin: 2% 0 5% 0;
+}
+
+.footer p:hover {
+	color: orange;
+	cursor: pointer;
+}
+
+
+
+/*use color:orange for the orange color*/
+/*use background-color: #d3d3d3; color: #5c5c5c; for the badges*/
+/*use color:grey for the social-share icons on hover*/
